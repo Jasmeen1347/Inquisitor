@@ -1,5 +1,3 @@
-Sure! Here's your `README.md` in **Markdown syntax**, ready to copy and paste directly into your GitHub repository:
-
 # 🕵️‍♂️ Inquisitor
 
 **Inquisitor** is an AI-powered tool that crawls and indexes website content, stores it in a vector database, and allows you to query that content using natural language. Perfect for building intelligent internal search systems or chatbot interfaces for your site.
